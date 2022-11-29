@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>475988213452-bk0un043475nu49ijgv8ad17o8umg7bd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.475988213452-bk0un043475nu49ijgv8ad17o8umg7bd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA_icj3UoasHn2sn32cfE1qzJBGQvHV97I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>475988213452</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>co.Hariharan.flashChat</string>
+	<key>PROJECT_ID</key>
+	<string>vue-js-teacher-student</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vue-js-teacher-student.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:475988213452:ios:d98fee78c7f99cad578c69</string>
+	<key>DATABASE_URL</key>
+	<string>https://vue-js-teacher-student-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
