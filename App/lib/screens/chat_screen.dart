@@ -81,7 +81,7 @@ class _ChatScreenState extends State<ChatScreen> {
                       decoration: kMessageTextFieldDecoration,
                     ),
                   ),
-                  FlatButton(
+                  FloatingActionButton(
                     onPressed: () {
                       messageTextController.clear();
                       _firestore
